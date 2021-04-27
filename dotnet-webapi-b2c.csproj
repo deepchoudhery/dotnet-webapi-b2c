@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>aspnet-dotnet_webapi_b2c-7A8422D1-F6F0-44D1-A4B2-4F9176514C55</UserSecretsId>
+    <UserSecretsId>aspnet-dotnet_webapi_b2c-2DE34883-8BDA-43ED-98A2-BE90F1A9782A</UserSecretsId>
     <RootNamespace>dotnet_webapi_b2c</RootNamespace>
   </PropertyGroup>
 
